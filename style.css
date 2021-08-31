@@ -1,0 +1,26 @@
+h1{
+    text-shadow: 0cm;
+    text-align: center;
+    font-style: italic;
+    color: aliceblue;
+    
+}
+
+body
+{ 
+ background-image:url('pexel.jpg');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ 
+}
+button{
+    background-color: rgb(5, 0, 0);
+    border: black;
+    color: rgb(255, 255, 255);
+    padding: 12px 24px;
+    border-radius: 10px;
+}
+span.text{
+  opacity: o.6px;
+}
